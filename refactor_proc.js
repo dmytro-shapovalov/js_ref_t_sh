@@ -1,3 +1,7 @@
+/*
+ * Please consider this to be both refactoring of original code and an example of procedural approach.
+ */
+
 function runProc(data) {
   if (!data) {
     return;

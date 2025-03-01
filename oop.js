@@ -1,3 +1,11 @@
+/*
+ * This is a minimal, yet extensible solution for the given task.
+ * The next steps would be:
+ *   - add data types to cells
+ *   - add data validations and invariant checks
+ *   - make fields private
+ */
+
 class Table {
   constructor(colNames, rowsData) {
     this.colNames = colNames;
